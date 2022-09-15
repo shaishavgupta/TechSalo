@@ -1,0 +1,1 @@
+TOP_SCORE_COUNT = 5

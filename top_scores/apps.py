@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class SaloConfig(AppConfig):
+class TopScoresConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'salo'
+    name = 'top_scores'
